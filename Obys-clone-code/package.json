@@ -1,0 +1,17 @@
+{
+	"name": "obys-agency-website",
+	"version": "1.0.0",
+	"description": "Obys Agency - Creative Design Agency Website",
+	"private": true,
+	"scripts": {
+		"build": "echo 'No build step required - static site'"
+	},
+	"keywords": [
+		"static",
+		"website",
+		"portfolio"
+	],
+	"author": "",
+	"license": "MIT"
+}
+
